@@ -21,7 +21,7 @@
 - Discord VCC's
 
 ### Download:
-- download the lasted compiled version [here](https://github.com/qPro420/).
+- download the lasted compiled version [here](https://github.com/qPro420/mmc-redeemer/releases/tag/lasted).
 
 ### Contact:
 - For Further Help, DM qPro#0001 on Discord.
