@@ -1,0 +1,10 @@
+{
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+    "max_vcc_uses": 10,
+    "concurrent_workers": 10,
+    "vcc_replace_timeout": 2,
+    "post_redeem_timeout": 2,
+    "authenticate_timeout": 10,
+    "proxyless": true,
+    "license_key": "A8Y2ST-HCYR45-6ZAV4S-F5QD2V-WLWTXS-CKI0ND"
+}
