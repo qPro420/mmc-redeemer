@@ -1,6 +1,6 @@
 <h1 align="center">mmc's Redeemer</h1>
 
-`mmc's Leaked/Cracked Redeemer.`
+`mmc's Leaked/Cracked Nitro Redeemer.`
 
 ### Notice:
 
@@ -13,6 +13,7 @@
 
 ### Info:
 - These files are Compiled Python Files meaning it is a compiled output file generated from source code written in Python programming language.
+- This is not the Source Code
 
 ### Requirements:
 - python 3.X
