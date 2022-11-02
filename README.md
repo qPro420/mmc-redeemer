@@ -20,6 +20,7 @@
 - Discord Promotion Codes
 - Discord Tokens
 - Discord VCC's
+- NOTE: In order for Redeemer to work you need 5 promos, 5 vccs, 5 tokens in it at least
 
 ### Download:
 - download the lasted compiled version [here](https://github.com/qPro420/mmc-redeemer/).
