@@ -2,6 +2,8 @@
 
 `mmc's Leaked/Cracked Nitro Redeemer.`
 
+[PATCHED] Date: 11/06/2022
+
 ### Notice:
 
 - I do not take part in Cracking this Program.
